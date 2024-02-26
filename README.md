@@ -16,9 +16,9 @@
 The following are the courses I have taken, and the scores are all above 90 points. If you need any updates, please contact me.
 
 * Course Project
-  *  SDM274 Artificial Intelligence and Machine Learning
-  *  EE205 Signal and System
-  *  CS205 C/C++ Programming
+  *  SDM274 Artificial Intelligence and Machine Learning (2023Fall)
+  *  EE205 Signal and System (2023Fall)
+  *  CS205 C/C++ Programming (2023Spring)
 
 <!--
 **JingjunXu/JingjunXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
