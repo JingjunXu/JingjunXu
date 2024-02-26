@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+#### 🌱 Breif Introduction:
+
+🏫 An Undergraduate Sophomore Student in [SUSTech](https://www.sustech.edu.cn/)
+
+📖 Major in **Information Engineering** within the EE Dept.
+
+🤔 Currently learning **AIGC**
+
+📫 Reach Me:
+* School email: 12210357@mail.sustech.edu.cn
+* Personal email: 3084015347@qq.com
+
+#### ⚡️ Potential Works
+The following are the courses I have taken, and the scores are all above 90 points. If you need any updates, please contact me.
+
+* Course Project
+  *  SDM274 Artificial Intelligence and Machine Learning
+  *  EE205 Signal and System
+  *  CS205 C/C++ Programming
+
 <!--
 **JingjunXu/JingjunXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
