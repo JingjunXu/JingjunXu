@@ -6,14 +6,12 @@
 
 📖 Major in **Information Engineering** within the EE Dept.
 
-🤔 Currently learning **AIGC**
-
 📫 Reach Me:
 * School email: 12210357@mail.sustech.edu.cn
 * Personal email: 3084015347@qq.com
 
 #### ⚡️ Potential Works
-The following are the courses I have taken, and the scores are all above 90 points. If you need any updates, please contact me.
+If you need any updates, please contact me.
 
 * Course Project
   *  SDM274 Artificial Intelligence and Machine Learning (2023Fall)
