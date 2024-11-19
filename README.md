@@ -13,15 +13,19 @@
 #### ⚡️ Potential Works
 If you need any updates, please contact me.
 
-* Course Project
+* Finished Course Project
+  *  CS205 C/C++ Programming (2023Spring)
   *  SDM274 Artificial Intelligence and Machine Learning (2023Fall)
   *  EE205 Signal and System (2023Fall)
-  *  CS205 C/C++ Programming (2023Spring)
-* Future Project
   *  CS203B Data Structures and Algorithms (2024Spring)
   *  EE202-17L Digital Circuit Experiment (2024Spring)
-  *  EE208 Engineering Electromagnetic Field Theory (2024Spring)
-
+  *  EE318 Electronic Innovation Experiment II (2024Spring)
+* Current Course Project
+  *  EE323 Digital Signal Processing (2024Fall)
+  *  EE346 Mobile Robot Navigation and Control (2024Fall)
+  *  EE351 Principles and Microsystems of Microcomputer (2024Fall)
+  *  EE405 Electronic Innovation Experiment III (2024Fall)
+ 
 <!--
 **JingjunXu/JingjunXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
