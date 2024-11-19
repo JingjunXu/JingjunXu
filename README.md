@@ -2,7 +2,7 @@
 
 #### 🌱 Breif Introduction:
 
-🏫 An Undergraduate Sophomore Student in [SUSTech](https://www.sustech.edu.cn/)
+🏫 An Undergraduate Junior Student in [SUSTech](https://www.sustech.edu.cn/)
 
 📖 Major in **Information Engineering** within the EE Dept.
 
