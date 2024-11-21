@@ -14,7 +14,7 @@
 If you need any updates, please contact me.
 
 * Finished Course Project
-  *  CS205 C/C++ Programming (2023Spring)
+  *  CS205 C/C++ Programming (2023Spring) [Projects](https://github.com/JingjunXu/CS205_C_Cpp_Programming)
   *  SDM274 Artificial Intelligence and Machine Learning (2023Fall)
   *  EE205 Signal and System (2023Fall)
   *  CS203B Data Structures and Algorithms (2024Spring)
