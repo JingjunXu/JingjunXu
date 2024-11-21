@@ -15,10 +15,10 @@ If you need any updates, please contact me.
 
 * Finished Course Project
   *  CS205 C/C++ Programming (2023Spring) [Projects](https://github.com/JingjunXu/CS205_C_Cpp_Programming)
-  *  SDM274 Artificial Intelligence and Machine Learning (2023Fall)
-  *  EE205 Signal and System (2023Fall)
-  *  CS203B Data Structures and Algorithms (2024Spring)
-  *  EE202-17L Digital Circuit Experiment (2024Spring)
+  *  SDM274 Artificial Intelligence and Machine Learning (2023Fall) [Projects](https://github.com/JingjunXu/SDM274_AI_and_ML)
+  *  EE205 Signal and System (2023Fall) [Projects](https://github.com/JingjunXu/EE205_Signal_and_System)
+  *  CS203B Data Structures and Algorithms (2024Spring) [Projects](https://github.com/JingjunXu/CS203B_DataStructures_AlgorithmsDesign)
+  *  EE202-17L Digital Circuit Experiment (2024Spring) [Projects](https://github.com/JingjunXu/EE202-17L_Digital_Circuit_Experiment)
   *  EE318 Electronic Innovation Experiment II (2024Spring)
 * Current Course Project
   *  EE323 Digital Signal Processing (2024Fall)
